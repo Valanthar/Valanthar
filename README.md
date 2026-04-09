@@ -25,7 +25,7 @@
 ### 🚀 Tecnologias e Ferramentas | Tech Stack:
 - **Linguagens:** C#, SQL
 - **Ferramentas:** Visual Studio, Git, GitHub
-- **Soft Skills:** Technical Sourcing, Psychology, Fluent English (100%)
+- **Soft Skills:** Technical Sourcing, Fluent English (100%)
 
 ---
 
